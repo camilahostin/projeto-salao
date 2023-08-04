@@ -1,6 +1,6 @@
 import datetime
-from entities.person import Person
-from entities.service import Service
+from src.entities.person import Person
+from src.entities.service import Service
 
 class Scheduling:
 
